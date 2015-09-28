@@ -1,0 +1,36 @@
+.flex-sp-around {
+    display: flex;
+    justify-content: space-around;
+}
+
+.flex-wrap{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+.flex-align-c{
+    display: flex;
+    align-items: center;
+}
+
+.align-c{
+    align-items: center;
+}
+
+.flex{
+    display: flex;
+}
+
+.sp-around {
+    justify-content: space-around;
+}
+
+.flex-align-just-c{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
